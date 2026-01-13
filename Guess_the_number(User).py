@@ -45,7 +45,7 @@ def guess(x):
 game_intro()
 
 while True:
-    guess(10)  
+    guess(100)  
 
     while True:
 
