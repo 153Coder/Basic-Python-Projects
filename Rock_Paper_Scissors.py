@@ -13,7 +13,7 @@ def play():
         if user in ['r', 'p', 's']:
             break
         else:
-            print("Invalid input! Please enter r, p, or s.\n")
+            print("Invalid input! Please enter r, p, or s only.\n")
             clear_screen()
 
     print("\nRock...")
